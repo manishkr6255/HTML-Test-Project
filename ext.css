@@ -1,3 +1,33 @@
 label{
-    color: yellow;
+    color: rgb(221, 255, 71);
 }
+
+#password{
+    color: violet !important;
+    font-size: 30px;
+}
+
+#checkbox{
+    color: yellow !important;
+    font-size: 20px;
+}
+
+.redcolor{
+    color: red !important;
+    font-family: sans-serif;
+    font-weight: 900;
+    
+}
+
+.fontType{
+    font-size: 20px;
+}
+
+.ptag{
+    background: tomato;
+    margin-left: 20px;
+    margin-top: 60px;
+    border-color: black solid;
+    border-radius: 30px;
+}
+
